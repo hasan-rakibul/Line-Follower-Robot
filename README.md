@@ -13,5 +13,5 @@ and so on...
 
 Programming environment: **Arduino IDE**
 
-#### Some terminologies in the code:
-Looking from the Back side of the robot, left motor is motor 'A', right motor is 'B', and the IR sensors 0 to 4 are counted from left to right.
+#### Some terminologies in the source code:
+Looking from the Back side of the robot, left motor is motor 'A', right motor is the motor 'B', and the IR sensors 0 to 4 are counted from left to right.
